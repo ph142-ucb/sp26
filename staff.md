@@ -29,14 +29,23 @@ For lab section and office hour schedules for each GSI, see the [calendar]({{ si
 ## GSIs
 
 <div class="role">
-  {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-  {% for staffer in teaching_assistants %}
+  {% assign gsis = site.staffers | where: 'role', 'GSI' %}
+  {% for staffer in gsis %}
+  {{ staffer }}
+  {% endfor %}
+</div>
+
+## Tech GSI
+
+<div class="role">
+  {% assign tech_gsi = site.staffers | where: 'role', 'Tech GSI' %}
+  {% for staffer in tech_gsi %}
   {{ staffer }}
   {% endfor %}
 </div>
 
 ## Tutors
-
+<!-- 
 Through the Dream Office at the School of Public Health, we offer weekly group tutoring sessions where we review concepts from the current week's lecture material, work through example questions and live coding exercises for R concepts, and provide a space for students to ask questions and practice.
 
 Our tutoring sessions are held weekly via Zoom and follow this schedule:
@@ -49,12 +58,13 @@ Our tutoring sessions are held weekly via Zoom and follow this schedule:
   {{ staffer }}
   {% endfor %}
 </div> 
-
+ -->
 ## Course Infrastructure
-
+<!-- 
 <div class="role">
   {% assign infra = site.staffers | where: 'role', 'Infrastructure' %}
   {% for staffer in infra %}
   {{ staffer }}
   {% endfor %}
 </div>
+ -->

@@ -1,11 +1,15 @@
 ---
-name: Mi-Suk Kang Dufour
+name: Mi-Suk Kang Dufour (she/her/hers)
 role: Instructor
-email: 
-website: 
-photo: 
+email: mi-suk@berkeley.edu
+website: https://publichealth.berkeley.edu/people/mi-suk-kang-dufour/
+photo: https://ph142-ucb.github.io/sp26/img/mi-suk.jpeg
 ---
 
-**Office Hours:**<!-- [Remotely](https://berkeley.zoom.us/j/91388735856) on Tuesdays from 5-6 PM -->
+**Office Hours:** By appointment only. 
 
-Mi-Suk Kang Dufour
+[Schedule an appointment](https://mi-suk.youcanbook.me){: .btn .btn-outline }
+
+[Zoom Link to Scheduled Appointment](https://berkeley.zoom.us/j/6119016101){: .btn .btn-outline}
+
+Also fluent in: French
