@@ -15,5 +15,4 @@ days:
     events:
       "**Lecture 12**{: .label .label-lec} [General rules of probability](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-12_General-prob-rules)":
         "Ch. 10"
-      "**Data Project Part I**{: .label .label-purple} Due":
 ---
