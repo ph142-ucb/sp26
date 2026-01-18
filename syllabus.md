@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 nav_exclude: true
-nav_order: 4
+# nav_order: 4
 description: >-
     Course policies and information.
 ---
