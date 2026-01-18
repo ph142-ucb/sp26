@@ -1,9 +1,9 @@
 ---
-name: Yichen (Gary) Xu (he/him)
+name: Yichen (Gary) Xu (he/his)
 role: Teaching Assistant
 email: 
 website: 
 photo: https://ph142-ucb.github.io/fa25/img/yichen.jpg
 ---
 
-Hello! My name is Yichen (Gary) Xu. I am a first year PhD student in Biostatistics at BPH. My research include causal inference, AI/ML, and biomedicine. In my free time, I enjoying reading, learning music, and biking. Looking forward to working with you all.
+Hi, my name is Yichen, a PhD student in biostatistics. My research span causal inference, AI/ML, and computational biology. I enjoy reading and learning music.
