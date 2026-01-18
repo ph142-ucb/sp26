@@ -1,21 +1,19 @@
 ---
 title: Week 5
 days:
-  - date: 2025-09-22
+  - date: 2026-02-16
     events:
-      "**Lecture 11**{: .label .label-lec} [Introduction to probability](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-11_Intro-probability)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)": 
-        "Ch. 9"
-      "**Lab**{: .label .label-lab} Midterm I Review Session":
-      "**MT I Review Problems**{: .label .label-purple} Released (optional)":
+      "**No Lecture**{: .label .label-purple} **Holiday**":
+      "**Lab**{: .label .label-lab} Midterm I Review Session (Optional)":
+      # "**MT I Review Problems**{: .label .label-purple} Released (optional)":
 
-  - date: 2025-09-24
+  - date: 2026-02-18
     events:
-      "**Lecture 12**{: .label .label-lec} [General rules of probability](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-12_General-prob-rules)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
-        "Ch. 10"
+      "**Exam**{: .label .label-exam} **Midterm 1**":
       
-  - date: 2025-09-26
+  - date: 2026-02-20
     events:
-      "**Lecture 13**{: .label .label-lec} [General rules of probability continued](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-13_General-prob-II) [ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
+      "**Lecture 12**{: .label .label-lec} [General rules of probability](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-12_General-prob-rules)":
         "Ch. 10"
       "**Data Project Part I**{: .label .label-purple} Due":
 ---
