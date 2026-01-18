@@ -11,12 +11,12 @@ days:
   - date: 2026-01-28
     events:
       "**Lecture 4**{: .label .label-lec} [Visualizing distributions for one variable, numerically summarizing spread and central tendency](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-04_Vis-distribution-one-variable)":
-        "Readings Ch. 1 & 2"
+        "Ch. 1 & 2"
       
   - date: 2026-01-30
     events:
       "**Lecture 5**{: .label .label-lec} [Exploring relationships between two variables](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-05_Relationships_two-variable)":
-        "Readings Ch. 3"
+        "Ch. 3"
       "**Lab 2**{: .label .label-lab} Due":
       "**Quiz 1**{: .label .label-quiz} Due 11:59pm on [Gradescope](https://www.gradescope.com/courses/1223977)":
       
