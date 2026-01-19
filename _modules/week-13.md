@@ -3,7 +3,7 @@ title: Week 13
 days:
   - date: 2026-04-13
     events:
-      "**Lecture 30**{: .label .label-lec} [Inference for a population proportion](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+      "**Lecture 30**{: .label .label-lec} [Inference for a population proportion]()":
         "Ch. 23"
       "**Lab 10**{: .label .label-lab} [Proportions and Inference for Regression]":
 
@@ -12,12 +12,12 @@ days:
         
   - date: 2026-04-15
     events:
-      "**Lecture 31**{: .label .label-lec} [Comparing two proportions](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+      "**Lecture 31**{: .label .label-lec} [Comparing two proportions]()":
         "Ch. 24"
     
   - date: 2026-04-17
     events:
-      "**Lecture 32**{: .label .label-lec} [Bootstrapping confidence intervals](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+      "**Lecture 32**{: .label .label-lec} [Bootstrapping confidence intervals]()":
         "Ch. 24"
       "**Lab 10**{: .label .label-lab} Due":
       "**Quiz 9**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":

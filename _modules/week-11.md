@@ -3,7 +3,7 @@ title: Week 11
 days:
   - date: 2026-03-30
     events:
-      "**Lecture 24**{: .label .label-lec} [One sample t tests and paired t tests](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-24_Inference-two-means)":
+      "**Lecture 24**{: .label .label-lec} [One sample t tests and paired t tests]()":
         "Ch. 18"
 
       #"**Lab 8**{: .label .label-lab} not released yet":
@@ -14,12 +14,12 @@ days:
 
   - date: 2026-04-01
     events:
-      "**Lecture 25**{: .label .label-lec} [Comparing two means](https://ph142-ucb.github.io/fa25/src/lec/Lec_25_Paired-t-test.html)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481) ": 
+      "**Lecture 25**{: .label .label-lec} [Comparing two means]()": 
         "Ch. 18"
       
   - date: 2026-04-03
     events:
-      "**Lecture 26**{: .label .label-lec} [ANOVA](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-26_Inference-one-proportion)":
+      "**Lecture 26**{: .label .label-lec} [ANOVA]()":
         "Ch. 24"
       "**Lab 8**{: .label .label-lab} Due":
       "**Quiz 7**{: .label .label-quiz} Due Nov 3rd 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":

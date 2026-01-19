@@ -13,6 +13,6 @@ days:
       
   - date: 2026-02-20
     events:
-      "**Lecture 12**{: .label .label-lec} [General rules of probability](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-12_General-prob-rules)":
+      "**Lecture 12**{: .label .label-lec} [General rules of probability]()":
         "Ch. 10"
 ---

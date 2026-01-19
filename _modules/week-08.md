@@ -3,7 +3,7 @@ title: Week 8
 days:
   - date: 2026-03-09
     events:
-      "**Lecture 19**{: .label .label-lec} [Confidence Intervals for a Mean with Known Standard Deviation](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-19_Conf-inf-mean)":
+      "**Lecture 19**{: .label .label-lec} [Confidence Intervals for a Mean with Known Standard Deviation]()":
         "Ch. 14"
 
       #"**Lab 7**{: .label .label-lab} not released yet":
@@ -13,12 +13,12 @@ days:
         
   - date: 2026-03-11
     events:
-      "**Lecture 20**{: .label .label-lec} [Hypothesis testing](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-20_Hyp-test-mean) ": 
+      "**Lecture 20**{: .label .label-lec} [Hypothesis testing]() ": 
         "Ch. 15"
       
   - date: 2026-03-13
     events:
-      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://github.com/ph142-ucb/ph142-sp26/tree/main/lec/Day-21_Inf-in-practice)":
+      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size]()":
       "**Lab 7**{: .label .label-lab} Due":
       "**Quiz 6**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
       

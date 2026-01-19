@@ -3,7 +3,7 @@ title: Week 14
 days:
   - date: 2026-04-20
     events:
-      "**Lecture 33**{: .label .label-lec} [The Chi-square test for goodness of fit](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+      "**Lecture 33**{: .label .label-lec} [The Chi-square test for goodness of fit]()":
         "Ch. 21"
       "**Lab 11**{: .label .label-lab} [Problem set on the Chi-square test]":
 
@@ -12,12 +12,12 @@ days:
         
   - date: 2026-04-22
     events:
-      "**Lecture 34**{: .label .label-lec} [The Chi-square test for two way tables](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+      "**Lecture 34**{: .label .label-lec} [The Chi-square test for two way tables]()":
         "Ch. 22"
     
   - date: 2026-04-24
     events:
-      "**Lecture 35**{: .label .label-lec} [Permutation tests](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+      "**Lecture 35**{: .label .label-lec} [Permutation tests]()":
       "**Lab 11**{: .label .label-lab} Due":
       "**Quiz 10**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
 
