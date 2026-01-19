@@ -7,6 +7,7 @@ days:
         "Ch. 12"
       "**Lab 6**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution]()":
       "**Homework 6**{: .label .label-hw} not released yet":
+      # "**Homework 6**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
       # "**Participation**{: .label .label-parti} [Mid Semester Feedback Survey](https://docs.google.com/forms/d/e/1FAIpQLSc4FWHNwaHcBWAno3ohsmHFEPK1fbiQj_nx0NJ3R9uOb4e-vA/viewform) ":
   - date: 2026-03-04
     events:

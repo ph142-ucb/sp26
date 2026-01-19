@@ -10,7 +10,7 @@ days:
 
       "**Lab 8**{: .label .label-lab} [Paired and Two Sample t-tests]()":
       "**Homework 8**{: .label .label-hw} not released yet":
-      # "**Homework 8**{: .label .label-hw} [on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-fa25&urlpath=rstudio%2F&branch=main) ":
+      # "**Homework 8**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
 
   - date: 2026-04-01
     events:
