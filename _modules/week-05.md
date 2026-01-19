@@ -13,6 +13,6 @@ days:
       
   - date: 2026-02-20
     events:
-      "**Lecture 12**{: .label .label-lec} [General rules of probability]()":
+      "**Lecture 12**{: .label .label-lec} [General rules of probability]() [(Video)]()":
         "Ch. 10"
 ---

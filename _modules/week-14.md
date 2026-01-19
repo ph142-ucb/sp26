@@ -3,21 +3,21 @@ title: Week 14
 days:
   - date: 2026-04-20
     events:
-      "**Lecture 33**{: .label .label-lec} [The Chi-square test for goodness of fit]()":
+      "**Lecture 33**{: .label .label-lec} [The Chi-square test for goodness of fit]() [(Video)]()":
         "Ch. 21"
-      "**Lab 11**{: .label .label-lab} [Problem set on the Chi-square test]":
+      "**Lab 11**{: .label .label-lab} [Problem set on the Chi-square test]()":
 
       "**Homework 10**{: .label .label-hw} not released yet":
       # "**Homework 9**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)": 
         
   - date: 2026-04-22
     events:
-      "**Lecture 34**{: .label .label-lec} [The Chi-square test for two way tables]()":
+      "**Lecture 34**{: .label .label-lec} [The Chi-square test for two way tables]() [(Video)]()":
         "Ch. 22"
     
   - date: 2026-04-24
     events:
-      "**Lecture 35**{: .label .label-lec} [Permutation tests]()":
+      "**Lecture 35**{: .label .label-lec} [Permutation tests]() [(Video)]()":
       "**Lab 11**{: .label .label-lab} Due":
       "**Quiz 10**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
 
