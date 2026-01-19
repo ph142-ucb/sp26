@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Data Project
-nav_order: 8
+nav_exclude: true
+# nav_order: 8
 description: PDF Links and Assignment Information for the Data Skills Demonstration Project
 ---
 
