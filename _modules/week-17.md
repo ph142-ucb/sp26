@@ -1,11 +1,13 @@
 ---
 title: Week 17
 days:
-  - date: 2025-12-15
+  - date: 2026-05-11
     events:
-      "**No Lecture**{: .label .label-purple}":
-      
-  - date: 2025-12-17
+      "**Exam**{: .label .label-exam} **Final Exam: In-Person** TBD":
+  - date: 2026-05-13
     events:
-      "**Exam**{: .label .label-exam} **Final Exam: In-Person** 11:30am-2:30pm":
+      "**Exam**{: .label .label-exam} **Final Exam: In-Person** TBD":
+  - date: 2026-05-15
+    events:
+      "**Exam**{: .label .label-exam} **Final Exam: In-Person** TBD":
 ---

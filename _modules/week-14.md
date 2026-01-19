@@ -1,14 +1,24 @@
 ---
 title: Week 14
 days:
-  - date: 2025-11-24
+  - date: 2026-04-20
     events:
-      "**Lecture 36 part 2**{: .label .label-lec} [Non-Parametric Testing (Part II)](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-36-nonparametric)[ (Video) ](https://bcourses.berkeley.edu/courses/1547200/external_tools/90481)":
-      "**Participation**{: .label .label-parti} Data Project GSI Check-In ":
-  - date: 2025-11-26
+      "**Lecture 33**{: .label .label-lec} [The Chi-square test for goodness of fit](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+        "Ch. 21"
+      "**Lab 11**{: .label .label-lab} [Problem set on the Chi-square test]":
+
+      "**Homework 10**{: .label .label-hw} not released yet":
+      # "**Homework 9**{: .label .label-hw} [(On Datahub)](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)": 
+        
+  - date: 2026-04-22
     events:
-      "**No Lecture**{: .label .label-purple} **Thanksgiving**":
-  - date: 2025-11-28
+      "**Lecture 34**{: .label .label-lec} [The Chi-square test for two way tables](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+        "Ch. 22"
+    
+  - date: 2026-04-24
     events:
-      "**No Lecture**{: .label .label-purple} **Thanksgiving**":
+      "**Lecture 35**{: .label .label-lec} [Permutation tests](https://github.com/ph142-ucb/ph142-fa25/tree/main/lec/Day-27_Inference-two-proportions)":
+      "**Lab 11**{: .label .label-lab} Due":
+      "**Quiz 10**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
+
 ---
