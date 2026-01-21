@@ -11,7 +11,6 @@ description: Resources for students
 - [FAQs and Common Errors]({{ site.baseurl }}/src/resources/faq/)
 - [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 - [Data Visualization Cheatsheet](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
-
 - [Distribution Visualization App](https://geneho.shinyapps.io/oomphstat-v2/_w_ff2f84d7/_w_c7a34e2e/)
 
 <hr>
