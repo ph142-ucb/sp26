@@ -23,7 +23,7 @@ description: Resources for students
 | [Order of Operations & Math Notation](https://www.youtube.com/watch?v=q169gG-f8NU) ([Notes]({{ site.baseurl }}/src/resources/review_math_nolan.pdf)) |
 | [Manipulating Equations](https://www.youtube.com/watch?v=6zenzwW2iv8)                                                                                             |
 | [Logarithms](https://www.youtube.com/watch?v=3Ygq9CqaNlA)                                                                                                         |
-| [Line of Best Fit](https://www.youtube.com/watch?v=fQJCbrno2CQ)                                                                                                   |
+| [Line of Best Fit](https://www.youtube.com/watch?v=DmGLQkUm-4g)                                                                                                   |
 | [R vs R-Squared](https://www.youtube.com/watch?v=WSFMBgEi3iw)                                                                                                     |
 | [Outliers, Leverage, and Influence in Linear Regression](https://www.youtube.com/watch?v=_rHvQfwCQlg)                                                             |
 | [Probability Rules](https://www.youtube.com/watch?v=phYMnGGT0Ro)                                                                                                  |
