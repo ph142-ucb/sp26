@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Syllabus
-nav_exclude: true
-# nav_order: 4
+nav_order: 4
 description: >-
     Course policies and information.
 ---
@@ -11,6 +10,6 @@ description: >-
 
 <hr>
 
-<a href="https://ph142-ucb.github.io/sp26/src/ph142-syllabus-fa25.pdf">Download as PDF</a>
+<a href="https://ph142-ucb.github.io/sp26/src/ph142-syllabus-sp26.pdf">Download as PDF</a>
 
-<iframe src="https://ph142-ucb.github.io/sp26/src/ph142-syllabus-fa25.pdf" width="100%" height="800"></iframe>
+<iframe src="https://ph142-ucb.github.io/sp26/src/ph142-syllabus-sp26.pdf" width="100%" height="800"></iframe>
