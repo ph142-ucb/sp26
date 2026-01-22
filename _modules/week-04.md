@@ -17,6 +17,6 @@ days:
       "**Lecture 11**{: .label .label-lec} [Introduction to probability]() [(Video)]()":
         "Ch. 9"
       "**Lab 4**{: .label .label-lab} Due":
-      "**Quiz 3**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Quiz 3**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
       
 ---

@@ -20,6 +20,6 @@ days:
       "**Lecture 32**{: .label .label-lec} [Bootstrapping confidence intervals]() [(Video)]()":
         "Ch. 24"
       "**Lab 10**{: .label .label-lab} Due":
-      "**Quiz 9**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Quiz 9**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
 
 ---

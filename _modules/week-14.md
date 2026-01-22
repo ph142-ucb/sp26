@@ -16,6 +16,6 @@ days:
     events:
       "**Lecture 35**{: .label .label-lec} [Permutation tests]() [(Video)]()":
       "**Lab 11**{: .label .label-lab} Due":
-      "**Quiz 10**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Quiz 10**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
 
 ---

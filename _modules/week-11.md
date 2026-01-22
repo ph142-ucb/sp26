@@ -22,6 +22,6 @@ days:
       "**Lecture 26**{: .label .label-lec} [ANOVA]() [(Video)]()":
         "Ch. 24"
       "**Lab 8**{: .label .label-lab} Due":
-      "**Quiz 7**{: .label .label-quiz} Due Nov 3rd 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Quiz 7**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
       "**Data Project**{: .label .label-proj} DData Project Part II Due":      
 ---

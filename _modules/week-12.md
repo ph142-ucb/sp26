@@ -19,7 +19,7 @@ days:
     events:
       "**Lecture 29**{: .label .label-lec} [Inference for regression I: assumptions of regression, checking assumptions]() [(Video)]()":
       "**Lab 9**{: .label .label-lab} Due":
-      "**Quiz 8**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Quiz 8**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
 
 ---
 

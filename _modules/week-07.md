@@ -21,5 +21,5 @@ days:
       "**Lecture 18**{: .label .label-lec} [Sampling distribution and the central limit theorem]() [(Video)]()":
         "Ch. 13"
       "**Lab 6**{: .label .label-lab} Due":  
-      "**Quiz 5**{: .label .label-quiz} Due 11:59pm [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Quiz 5**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
 ---
