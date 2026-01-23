@@ -12,8 +12,7 @@ days:
       
   - date: 2026-01-23
     events:
-      "**Lecture 2**{: .label .label-lec} [Working with data in R and RStudio (dplyr package)](https://ph142-ucb.github.io/sp26/src/lec/L02_working-with-data.pdf) [(Video)]()":
-      # "**Lecture 2 extra**{: .label .label-lec} [(Video)](https://berkeley.zoom.us/rec/share/12612XoVHe6Y7Wks3oAeFueyhtbXv7emLxSAxZiovlCKz8e2K42_BMDZBr_7j-ii.3iv0MDmONPBwsAzR?startTime=1756504113000) Passcode: U9%Y?v8j":
+      "**Lecture 2**{: .label .label-lec} [Working with data in R and RStudio (dplyr package)](https://ph142-ucb.github.io/sp26/src/lec/L02_working-with-data.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-2)":
       "**Lab 1**{: .label .label-lab} Due":
       
 ---
