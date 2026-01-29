@@ -9,7 +9,7 @@ days:
       
   - date: 2026-01-28
     events:
-      "**Lecture 4**{: .label .label-lec} [Visualizing distributions for one variable, numerically summarizing spread and central tendency](https://ph142-ucb.github.io/sp26/src/lec/l04-describing-data-with-numbers.pdf) [(Video)]()":
+      "**Lecture 4**{: .label .label-lec} [Visualizing distributions for one variable, numerically summarizing spread and central tendency](https://ph142-ucb.github.io/sp26/src/lec/l04-describing-data-with-numbers.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-4)":
         "Ch. 1 & 2"
       
   - date: 2026-01-30
