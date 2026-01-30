@@ -14,7 +14,7 @@ days:
       
   - date: 2026-01-30
     events:
-      "**Lecture 5**{: .label .label-lec} [Exploring relationships between two variables](https://ph142-ucb.github.io/sp26/src/lec/l05-relationships-between-two-variables.pdf) [(Video)]()":
+      "**Lecture 5**{: .label .label-lec} [Exploring relationships between two variables](https://ph142-ucb.github.io/sp26/src/lec/l05-relationships-between-two-variables.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-5)":
         "Ch. 3"
       "**Lab 2**{: .label .label-lab} Due":
       "**Quiz 1**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
