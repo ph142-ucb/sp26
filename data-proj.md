@@ -12,6 +12,7 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp26/src/dp/part1-instructions_sp26.pdf)  
 
+- Group Confirmation Form [on Gradescope](https://www.gradescope.com/courses/1223977).
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 1 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977).
 
