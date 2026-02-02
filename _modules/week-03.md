@@ -3,7 +3,7 @@ title: Week 3
 days:
   - date: 2026-02-02
     events:
-      "**Lecture 6**{: .label .label-lec} [Introduction to Regression]() [(Video)]()": 
+      "**Lecture 6**{: .label .label-lec} [Introduction to Regression](https://ph142-ucb.github.io/sp26/src/lec/l06-intro-to-regression.pdf) [(Video)]()": 
         "Ch. 4"
       "**Lab 3**{: .label .label-lab} [Relationship between global cesarean rates and GDP]()":
       "**Homework 3**{: .label .label-hw} [not released yet]":
