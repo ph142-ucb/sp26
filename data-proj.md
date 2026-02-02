@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Data Project
-nav_exclude: true
-# nav_order: 8
+nav_order: 8
 description: PDF Links and Assignment Information for the Data Skills Demonstration Project
 ---
 
@@ -11,11 +10,10 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa25/src/dp/part3-instructions_fa25.pdf)  
+[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp26/src/dp/part1-instructions_sp26.pdf)  
 
-<!-- - Note: Make sure to check in with your assigned GSI before the due date!
-- Please refer to the [Dataset Criteria](https://docs.google.com/document/d/1SHysgRhif8rXpsV-U62Urz91Tf5ozoyVCXgyg3hq484/edit?usp=sharing) to ensure you are using a valid dataset!
-- You can find the rubric for Part 1 of the Data Project [here](https://docs.google.com/document/d/16dnp8BAYZoogcpz3Dd5cyTjoIO8LJLsKhkP6UQl_v6Y/edit?usp=sharing). -->
+- Note: Make sure to check in with your assigned GSI before the due date!
+- You can find the rubric for Part 1 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977).
 
 <!-- [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa25/src/dp/part2_instructions.pdf) 
 
@@ -26,16 +24,17 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/15YQn9pnG8ZcGqQkQ0hmiCousDKyeqLB0rUNO4r5grlE/edit?usp=sharing). -->
 
-## Data Skills Demonstration Project Part III
-<iframe src="https://ph142-ucb.github.io/fa25/src/dp/part3-instructions_fa25.pdf" width="100%" height="800"></iframe> 
+## Data Skills Demonstration Project Part I
+<iframe src="https://ph142-ucb.github.io/sp26/src/dp/part1-instructions_sp26.pdf" width="100%" height="800"></iframe> 
 
 <hr>
 
 **Due dates:** 
 
-- **Part I is due on September 26th at 10:00 PM PST**
-- **Part II is due on October 24th at 10:00 PM PST**
-- **Part III is due on December 5th at 10:00 PM PST**
+- Group Confirmation Form: **February 13th 10:00 PM PST** (counts towards participation grade)
+- Part I is due on **February 27h at 11:59 PM PST**
+- Part II is due on **April 3rd at 11:59 PM PST**
+- Part III is due on **May 1st at 5:00 PM PST**
 
 **Make sure to provide enough time for Gradescope submission to be uploaded if you include large visualizations.**
 
@@ -76,7 +75,7 @@ Because we are asking you to provide some visualizations and use the same datase
 There are a few ways you can contact your GSI:
 
 1. Create a private post on Ed with your question(s)/images and tag your assigned GSI (Example: @Paula Marquez)
-2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/fa25/calendar/)
+2. Attend your assigned GSI's Office Hours! All OH's are listed on the [course calendar](https://ph142-ucb.github.io/sp26/calendar/)
 3. Email [142gsi@berkeley.edu](mailto:142gsi@berkeley.edu) with the subject line "[Data Project] GSI ________ - ..."
 
 GSI's will do their best to respond to all emails/posts within 24 hours.
