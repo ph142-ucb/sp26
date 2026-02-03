@@ -1,9 +1,9 @@
 ---
-title: "Data Project Group Checklist"
+title: "Data Project Group Confirmation"
 output: pdf_document
 ---
 
-You should have recieved your group assignments by now.  If you have any questions about your group membership, please connect with your supporting GSI.  For most of you this will be the GSI that teaches your section, for some of you, your group will work with a different GSI than the one that teaches your section.
+If you have any questions about your group membership, please connect with your supporting GSI or email 142gsi@berkeley.edu 
 
 The purpose of this assignment is:
 
@@ -11,10 +11,10 @@ The purpose of this assignment is:
 
 2) to suggest some points of discussion for your group to agree on how you will work together
 
-2) to practice submitting a group assignment on gradescope so that everyone in the group gets credit for the assignment
+2) to practice submitting a group assignment on gradescope so that everyone in the group gets credit for the assignment.  
 
 
-This assignment should be submitted on gradescope (one per group) with all group members added to the submission.
+This assignment should be submitted on gradescope (one per group) with all group members added to the submission.  It is your responsibility to confirm that you have been included on the group submission. 
 
 Q1:  Who are your group members?  List them here:
 
