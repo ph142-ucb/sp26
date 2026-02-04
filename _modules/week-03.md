@@ -9,7 +9,7 @@ days:
       "**Homework 3**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
   - date: 2026-02-04
     events:
-      "**Lecture 7**{: .label .label-lec} [Two-way tables (Relationships between two categorical variables)](https://ph142-ucb.github.io/sp26/src/lec/l07-two-categorical.pdf) [(Video)]()":
+      "**Lecture 7**{: .label .label-lec} [Two-way tables (Relationships between two categorical variables)](https://ph142-ucb.github.io/sp26/src/lec/l07-two-categorical.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-7)":
         "Ch. 5"
       "**Data Project**{: .label .label-proj} Group Confirmation Form Released [on Gradescope](https://www.gradescope.com/courses/1223977)":
   - date: 2026-02-06
