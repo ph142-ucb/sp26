@@ -14,7 +14,7 @@ days:
       "**Data Project**{: .label .label-proj} Group Confirmation Form Released [on Gradescope](https://www.gradescope.com/courses/1223977)":
   - date: 2026-02-06
     events:
-      "**Lecture 8**{: .label .label-lec} [Samples and observational studies](https://ph142-ucb.github.io/sp26/src/lec/l08-samples.pdf) [(Video)]()":
+      "**Lecture 8**{: .label .label-lec} [Samples and observational studies](https://ph142-ucb.github.io/sp26/src/lec/l08-samples.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-8)":
         "Ch. 6"
       "**Lab 3**{: .label .label-lab} Due":
       "**Quiz 2**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
