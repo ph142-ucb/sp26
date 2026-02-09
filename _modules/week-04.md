@@ -3,7 +3,7 @@ title: Week 4
 days:
   - date: 2026-02-09
     events:
-      "**Lecture 9**{: .label .label-lec} [Desigining Experiments/Ethics](https://ph142-ucb.github.io/sp26/src/lec/l09-study-design_sp26.pdf) [(Video)]()":
+      "**Lecture 9**{: .label .label-lec} [Desigining Experiments/Ethics](https://ph142-ucb.github.io/sp26/src/lec/l09-study-design_sp26.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-09)":
         "Ch. 7"
 
       "**Lab 4**{: .label .label-lab} [Midterm I Review Session]()":
