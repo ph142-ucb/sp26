@@ -6,7 +6,8 @@ days:
       "**Lecture 9**{: .label .label-lec} [Desigining Experiments/Ethics]() [(Video)]()":
         "Ch. 7"
 
-      "**Lab 4**{: .label .label-lab} [Screening and Precision Public Health]()":
+      "**Lab 4**{: .label .label-lab} [Midterm I Review Session]()":
+      "**Homework 4**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
 
   - date: 2026-02-11
     events:
@@ -16,7 +17,6 @@ days:
     events:
       "**Lecture 11**{: .label .label-lec} [Introduction to probability]() [(Video)]()":
         "Ch. 9"
-      "**Lab 4**{: .label .label-lab} Due":
       "**Quiz 3**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
-      
+      "**Data Project**{: .label .label-proj} Group Confirmation Due Saturday":
 ---
