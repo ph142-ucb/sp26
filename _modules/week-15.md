@@ -4,7 +4,7 @@ days:
   - date: 2026-04-27
     events:
       "**Lecture 36**{: .label .label-lec} [Catch up - TBD]() [(Video)]()":
-      "**Lab**{: .label .label-lab} Final Exam Review Session (Optional)":
+      "**Lab**{: .label .label-lab} Final Exam Review Session":
   - date: 2026-04-29
     events:
       "**Lecture 37**{: .label .label-lec} [Summary of Part 3]() [(Video)]()":
