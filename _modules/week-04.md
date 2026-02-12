@@ -11,7 +11,7 @@ days:
 
   - date: 2026-02-11
     events:
-      "**Lecture 10**{: .label .label-lec} [review part 1](https://ph142-ucb.github.io/sp26/src/lec/midterm-review_sp26.pdf) [(Video)]()":
+      "**Lecture 10**{: .label .label-lec} [review part 1](https://ph142-ucb.github.io/sp26/src/lec/midterm-review_sp26.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-10)":
 
   - date: 2026-02-13
     events:
