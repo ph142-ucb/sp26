@@ -15,7 +15,7 @@ days:
 
   - date: 2026-02-13
     events:
-      "**Lecture 11**{: .label .label-lec} [Introduction to probability](https://ph142-ucb.github.io/sp26/src/lec/l11-intro-to-probability.pdf) [(Video)]()":
+      "**Lecture 11**{: .label .label-lec} [Introduction to probability](https://ph142-ucb.github.io/sp26/src/lec/l11-intro-to-probability.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-11)":
         "Ch. 9"
       "**Quiz 3**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
       "**Data Project**{: .label .label-proj} Group Confirmation Due Saturday":
