@@ -13,7 +13,7 @@ days:
       
   - date: 2026-02-20
     events:
-      "**Lecture 12**{: .label .label-lec} [General rules of probability]() [(Video)]()":
+      "**Lecture 12**{: .label .label-lec} [General rules of probability](https://ph142-ucb.github.io/sp26/src/lec/l12-more-probability.pdf) [(Video)]()":
         "Ch. 10"
       "**Lab 4**{: .label .label-lab} Due":
 ---
