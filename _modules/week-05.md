@@ -4,8 +4,7 @@ days:
   - date: 2026-02-16
     events:
       "**No Lecture**{: .label .label-purple} **Holiday**":
-      "**Lab**{: .label .label-lab} [Screening and Precision Public Health]()":
-      "**Homework 4**{: .label .label-hw} [not released yet]":
+      "**Lab 4**{: .label .label-lab} [Screening and Precision Public Health](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
 
   - date: 2026-02-18
     events:
