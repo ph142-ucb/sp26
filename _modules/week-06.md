@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2026-02-23
     events:
-      "**Lecture 13**{: .label .label-lec} [General rules of probability continued]() [(Video)]()":
+      "**Lecture 13**{: .label .label-lec} [General rules of probability continued](https://ph142-ucb.github.io/sp26/src/lec/l13-even-more-probability-annotated.pdf) [(Video)]()":
         "Ch. 10"
       "**Lab 5**{: .label .label-lab} [Independence, Screening, and Normal Distribution]()":
       "**Homework 5**{: .label .label-hw} [not released yet]":
@@ -11,12 +11,12 @@ days:
 
   - date: 2026-02-25
     events:
-      "**Lecture 14**{: .label .label-lec} [The Normal distribution]() [(Video)]()":
+      "**Lecture 14**{: .label .label-lec} [The Normal distribution](https://ph142-ucb.github.io/sp26/src/lec/l14-normal-distribution.pdf) [(Video)]()":
         "Ch. 11"
       
   - date: 2026-02-27
     events:
-      "**Lecture 15**{: .label .label-lec} [Normal and Binomial distribution]() [(Video)]()":
+      "**Lecture 15**{: .label .label-lec} [Normal and Binomial distribution](https://ph142-ucb.github.io/sp26/src/lec/l15-binomial.pdf) [(Video)]()":
         "Ch. 11"
       "**Lab 5**{: .label .label-lab} Due":
       "**Quiz 4**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
