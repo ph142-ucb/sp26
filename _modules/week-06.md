@@ -3,7 +3,7 @@ title: Week 6
 days:
   - date: 2026-02-23
     events:
-      "**Lecture 13**{: .label .label-lec} [General rules of probability continued](https://ph142-ucb.github.io/sp26/src/lec/l13-even-more-probability.pdf) [annotated slides](https://ph142-ucb.github.io/sp26/src/lec/l13-even-more-probability_annotated.pdf)[(Video)]()":
+      "**Lecture 13**{: .label .label-lec} [General rules of probability continued](https://ph142-ucb.github.io/sp26/src/lec/l13-even-more-probability.pdf) [annotated slides](https://ph142-ucb.github.io/sp26/src/lec/l13-even-more-probability-annotated.pdf)[(Video)]()":
         "Ch. 10"
       "**Lab 5**{: .label .label-lab} [Independence, Screening, and Normal Distribution]()":
       "**Homework 5**{: .label .label-hw} [not released yet]":
