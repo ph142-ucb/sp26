@@ -10,12 +10,12 @@ days:
 
   - date: 2026-02-25
     events:
-      "**Lecture 14**{: .label .label-lec} [The Normal distribution](https://ph142-ucb.github.io/sp26/src/lec/l14-normal-distribution.pdf) [(Video)]()":
+      "**Lecture 14**{: .label .label-lec} [The Normal distribution](https://ph142-ucb.github.io/sp26/src/lec/l14-normal-distribution.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-14)":
         "Ch. 11"
       
   - date: 2026-02-27
     events:
-      "**Lecture 15**{: .label .label-lec} [Normal and Binomial distribution](https://ph142-ucb.github.io/sp26/src/lec/l15-binomial.pdf) [(Video)]()":
+      "**Lecture 15**{: .label .label-lec} [Normal and Binomial distribution](https://ph142-ucb.github.io/sp26/src/lec/l15-binomial.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-15)":
         "Ch. 11"
       "**Lab 5**{: .label .label-lab} Due":
       "**Quiz 4**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
