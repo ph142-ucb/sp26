@@ -16,5 +16,6 @@ days:
     events:
       "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size]() [(Video)]()":
       "**Quiz 6**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Lab 7**{: .label .label-lab} Due":
       
 ---
