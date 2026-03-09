@@ -10,23 +10,23 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 
 ### PDF Links 
 
-[Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp26/src/dp/part1-instructions_sp26.pdf)  
+<!-- [Data Skills Demonstration Project Part I](https://ph142-ucb.github.io/sp26/src/dp/part1-instructions_sp26.pdf)  
 
 - Group Confirmation Form [on Gradescope](https://www.gradescope.com/courses/1223977).
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 1 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977).
+- You can find the rubric for Part 1 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977). -->
 
-<!-- [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/fa25/src/dp/part2_instructions.pdf) 
+[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp26/src/dp/part2_instructions_sp26.pdf) 
 
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 2 of the Data Project [here](https://docs.google.com/document/d/1e06NcQemsUQrs_tLFVaX0O-07ypL-BePP97Ueup5z10/edit?usp=sharing).
+- You can find the rubric for Part 2 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977).
 
-[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/fa25/src/dp/part3-instructions.pdf)  
+<!-- [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp26/src/dp/part3-instructions_sp26.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 3 of the Data Project [here](https://docs.google.com/document/d/15YQn9pnG8ZcGqQkQ0hmiCousDKyeqLB0rUNO4r5grlE/edit?usp=sharing). -->
+- You can find the rubric for Part 3 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977). -->
 
-## Data Skills Demonstration Project Part I
-<iframe src="https://ph142-ucb.github.io/sp26/src/dp/part1-instructions_sp26.pdf" width="100%" height="800"></iframe> 
+## Data Skills Demonstration Project Part II
+<iframe src="https://ph142-ucb.github.io/sp26/src/dp/part2-instructions_sp26.pdf" width="100%" height="800"></iframe> 
 
 <hr>
 
