@@ -16,6 +16,5 @@ days:
   - date: 2026-03-20
     events:
       "**Exam**{: .label .label-exam} **Midterm 2: In-Person**":
-      "**Lab 7**{: .label .label-lab} Due":
 
 ---
