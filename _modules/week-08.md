@@ -7,7 +7,7 @@ days:
         "Ch. 14"
       "**Lab 7**{: .label .label-lab} [Confidence Intervals, P-Values, P-Hacking](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
       "**Homework 7**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
-      "**Data Project**{: .label .label-proj} Part II instructions [Released] (https://ph142-ucb.github.io/sp26/data-proj/)":
+      "**Data Project**{: .label .label-proj} Part II instructions [Released](https://ph142-ucb.github.io/sp26/data-proj/)":
         
   - date: 2026-03-11
     events:
