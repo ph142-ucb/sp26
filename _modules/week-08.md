@@ -18,5 +18,6 @@ days:
     events:
       "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://ph142-ucb.github.io/sp26/src/lec/l21-power.pdf) [(Video)]()":
       "**Quiz 6**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
+      "**Lab 7**{: .label .label-lab} Due":
       
 ---
