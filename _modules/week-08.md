@@ -5,7 +5,7 @@ days:
     events:
       "**Lecture 19**{: .label .label-lec} [Confidence Intervals for a Mean with Known Standard Deviation]() [(Video)]()":
         "Ch. 14"
-      "**Lab**{: .label .label-lab} Midterm 2 Review Session":
+      "**Lab 7**{: .label .label-lab} [Normal, Binomial, and Poisson Distribution]()":
         
   - date: 2026-03-11
     events:
