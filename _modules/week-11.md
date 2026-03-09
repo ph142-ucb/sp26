@@ -23,5 +23,5 @@ days:
         "Ch. 24"
       "**Lab 8**{: .label .label-lab} Due":
       "**Quiz 7**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
-      "**Data Project**{: .label .label-proj} DData Project Part II Due":      
+      "**Data Project**{: .label .label-proj} Data Project Part II Due":      
 ---
