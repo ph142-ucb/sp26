@@ -11,7 +11,7 @@ days:
         
   - date: 2026-03-11
     events:
-      "**Lecture 20**{: .label .label-lec} [Hypothesis testing](https://ph142-ucb.github.io/sp26/src/lec/l20-hypothesis.pdf) [(Video)]()": 
+      "**Lecture 20**{: .label .label-lec} [Hypothesis testing](https://ph142-ucb.github.io/sp26/src/lec/l20-hypothesis.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/lecture-20)": 
         "Ch. 15"
       
   - date: 2026-03-13
