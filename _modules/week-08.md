@@ -16,7 +16,7 @@ days:
       
   - date: 2026-03-13
     events:
-      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://ph142-ucb.github.io/sp26/src/lec/l21-power.pdf) [(Video)]()":
+      "**Lecture 21**{: .label .label-lec} [Power, Type I and Type II Error, Sample Size](https://ph142-ucb.github.io/sp26/src/lec/l21-power.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/l21-power)":
       "**Quiz 6**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
       "**Lab 7**{: .label .label-lab} Due":
       
