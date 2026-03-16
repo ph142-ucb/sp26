@@ -3,7 +3,7 @@ title: Week 9
 days:
   - date: 2026-03-16
     events:
-      "**Lecture 22**{: .label .label-lec} [Summary of Part 2]() [(Video)]()":
+      "**Lecture 22**{: .label .label-lec} [Summary of Part 2](https://ph142-ucb.github.io/sp26/src/lec/mt2review_sp26.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/midterm-2-review)":
       "**Lab**{: .label .label-lab} Midterm 2 Review Session":
 
   - date: 2026-03-18
