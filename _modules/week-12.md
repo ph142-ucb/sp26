@@ -13,6 +13,7 @@ days:
   - date: 2026-04-08
     events:
       "**Lecture 28**{: .label .label-lec} [post ANOVA]() [(Video)]()":
+      "**Lab 8**{: .label .label-lab} Due":
       
       
   - date: 2026-04-10
