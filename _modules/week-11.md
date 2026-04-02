@@ -11,7 +11,7 @@ days:
 
   - date: 2026-04-01
     events:
-      "**Lecture 25**{: .label .label-lec} [Comparing two means](https://ph142-ucb.github.io/sp26/src/lec/flavors-of-t.pdf) [(Video)]()": 
+      "**Lecture 25**{: .label .label-lec} [Comparing two means](https://ph142-ucb.github.io/sp26/src/lec/flavors-of-t.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/two-sample-t)": 
         "Ch. 18"
       
   - date: 2026-04-03
