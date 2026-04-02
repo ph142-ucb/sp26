@@ -8,7 +8,7 @@ days:
 
   - date: 2026-03-18
     events:
-      "**Lecture 23**{: .label .label-lec} [From Z to t testing for one sample mean](https://ph142-ucb.github.io/sp26/src/lec/l22-ztot.pdf) [(Video)]()":
+      "**Lecture 23**{: .label .label-lec} [continuation of review]() ":
         "Ch. 15" 
 
   - date: 2026-03-20
