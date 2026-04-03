@@ -3,7 +3,7 @@ title: Week 13
 days:
   - date: 2026-04-13
     events:
-      "**Lecture 30**{: .label .label-lec} [Inference for linear regression](https://ph142-ucb.github.io/sp26/src/lec/) [(Video)]()":
+      "**Lecture 30**{: .label .label-lec} [Inference for linear regression](https://ph142-ucb.github.io/sp26/src/lec/regression-inference.pdf) [(Video)]()":
         "Ch. 23"
       "**Lab 10**{: .label .label-lab} [Inference for Regression]()":
 
