@@ -16,17 +16,17 @@ description: PDF Links and Assignment Information for the Data Skills Demonstrat
 - Note: Make sure to check in with your assigned GSI before the due date!
 - You can find the rubric for Part 1 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977). -->
 
-[Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp26/src/dp/part2_instructions_sp26.pdf) 
+<!-- [Data Skills Demonstration Project Part II](https://ph142-ucb.github.io/sp26/src/dp/part2_instructions_sp26.pdf) 
 
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 2 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977).
+- You can find the rubric for Part 2 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977). -->
 
-<!-- [Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp26/src/dp/part3-instructions_sp26.pdf)  
+[Data Skills Demonstration Project Part III](https://ph142-ucb.github.io/sp26/src/dp/part3-instructions_sp26.pdf)  
 - Note: Make sure to check in with your assigned GSI before the due date!
-- You can find the rubric for Part 3 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977). -->
+- You can find the rubric for Part 3 of the Data Project [on Gradescope](https://www.gradescope.com/courses/1223977).
 
-## Data Skills Demonstration Project Part II
-<iframe src="https://ph142-ucb.github.io/sp26/src/dp/part2-instructions_sp26.pdf" width="100%" height="800"></iframe> 
+## Data Skills Demonstration Project Part III
+<iframe src="https://ph142-ucb.github.io/sp26/src/dp/part3-instructions_sp26.pdf" width="100%" height="800"></iframe> 
 
 <hr>
 

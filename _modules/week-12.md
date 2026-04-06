@@ -5,10 +5,9 @@ days:
     events:
       "**Lecture 27**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp26/src/lec/anova.pdf) [(Video)]()":
         "Ch. 24"
-      "**Lab 9**{: .label .label-lab} [T tests and ANOVA]()":
+      "**Lab 9**{: .label .label-lab} [Proportions and Inference](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
 
-      "**Homework 9**{: .label .label-hw} not released yet":
-      # "**Homework 9**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
+      "**Homework 9**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
         
   - date: 2026-04-08
     events:
