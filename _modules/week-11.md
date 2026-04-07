@@ -16,7 +16,7 @@ days:
       
   - date: 2026-04-03
     events:
-      "**Lecture 26**{: .label .label-lec} [Paired t tests](https://ph142-ucb.github.io/sp26/src/lec/paired-t.pdf) [(Video)]()":
+      "**Lecture 26**{: .label .label-lec} [Paired t tests](https://ph142-ucb.github.io/sp26/src/lec/paired-t.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/paired-t-guest)":
         "Ch. 24"
       "**Quiz 7**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
       "**Data Project**{: .label .label-proj} Data Project Part II Due":      
