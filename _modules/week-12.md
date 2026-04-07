@@ -3,7 +3,7 @@ title: Week 12
 days:
   - date: 2026-04-06
     events:
-      "**Lecture 27**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp26/src/lec/anova.pdf) [(Video)]()":
+      "**Lecture 27**{: .label .label-lec} [ANOVA](https://ph142-ucb.github.io/sp26/src/lec/anova.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/anova-guest)":
         "Ch. 24"
       "**Lab 9**{: .label .label-lab} [Proportions and Inference](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)":
 
