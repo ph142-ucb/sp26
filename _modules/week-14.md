@@ -14,7 +14,7 @@ days:
     
   - date: 2026-04-24
     events:
-      "**Lecture 35**{: .label .label-lec} [Permutation tests]() [(Video)]()":
+      "**Lecture 35**{: .label .label-lec} [Midterm exam points recovery]() [(Video)]()":
       "**Lab 11**{: .label .label-lab} Due":
       "**Quiz 10**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
 
