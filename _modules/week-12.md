@@ -11,7 +11,7 @@ days:
         
   - date: 2026-04-08
     events:
-      "**Lecture 28**{: .label .label-lec} [post ANOVA](https://ph142-ucb.github.io/sp26/src/lec/post_anova.pdf) [(Video)]()":
+      "**Lecture 28**{: .label .label-lec} [post ANOVA](https://ph142-ucb.github.io/sp26/src/lec/post_anova.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/post-anova)":
       "**Lab 8**{: .label .label-lab} Due":
       
       
