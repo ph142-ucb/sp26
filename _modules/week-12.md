@@ -17,7 +17,7 @@ days:
       
   - date: 2026-04-10
     events:
-      "**Lecture 29**{: .label .label-lec} [non-parametric tests](https://ph142-ucb.github.io/sp26/src/lec/nonpara_sp26.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/non-parametrics)":
+      "**Lecture 29**{: .label .label-lec} [non-parametric tests - recorded - no live lecture](https://ph142-ucb.github.io/sp26/src/lec/nonpara_sp26.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/non-parametrics)":
       "**Lab 9**{: .label .label-lab} Due":
       "**Quiz 8**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
 
