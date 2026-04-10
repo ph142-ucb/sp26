@@ -5,7 +5,7 @@ days:
     events:
       "**Lecture 30**{: .label .label-lec} [Inference for linear regression](https://ph142-ucb.github.io/sp26/src/lec/regression-inference.pdf) [(Video)]()":
         "Ch. 23"
-      "**Lab 10**{: .label .label-lab} [Inference for Regression]()":
+      "**Lab 10**{: .label .label-lab} [T tests and ANOVA]()":
 
       "**Homework 10**{: .label .label-hw} not released yet":
       # "**Homework 10**{: .label .label-hw} [Released - on Datahub](https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main)": 
