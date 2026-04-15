@@ -11,7 +11,7 @@ days:
         
   - date: 2026-04-15
     events:
-      "**Lecture 31**{: .label .label-lec} [Linear regression part II]() [(Video)]()":
+      "**Lecture 31**{: .label .label-lec} [Linear regression part II](https://ph142-ucb.github.io/sp26/src/lec/expanding_linear_models.pdf) [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/inference-for-linear-regression)":
         "Ch. 24"
     
   - date: 2026-04-17
