@@ -3,7 +3,7 @@ title: Week 15
 days:
   - date: 2026-04-27
     events:
-      "**Lecture 36**{: .label .label-lec} [The Chi-square test for independence]() [(Video)]()":
+      "**Lecture 36**{: .label .label-lec} [The Chi-square test for independence]() [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/chi-2)":
       "**Lab**{: .label .label-lab} Final Exam Review Session":
   - date: 2026-04-29
     events:
