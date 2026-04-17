@@ -16,7 +16,7 @@ days:
     
   - date: 2026-04-17
     events:
-      "**Lecture 32**{: .label .label-lec} [Continuation of Linear regression material]() [(Video)]()":
+      "**Lecture 32**{: .label .label-lec} [Continuation of Linear regression material]() [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/inference-for-linear-regression)":
         "Ch. 24"
       "**Lab 10**{: .label .label-lab} Due":
       "**Quiz 9**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
