@@ -16,7 +16,7 @@ days:
     
   - date: 2026-04-17
     events:
-      "**Lecture 32**{: .label .label-lec} [Inference for proportions]() [(Video)]()":
+      "**Lecture 32**{: .label .label-lec} [Inference for proportions](https://ph142-ucb.github.io/sp26/src/lec/inf_proportions_sp26.pdf) [(Video)]()":
         "Ch. 24"
       "**Lab 10**{: .label .label-lab} Due":
       "**Quiz 9**{: .label .label-quiz} Due Saturday at noon [on Gradescope](https://www.gradescope.com/courses/1223977)":
