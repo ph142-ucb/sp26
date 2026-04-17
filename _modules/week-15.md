@@ -3,7 +3,7 @@ title: Week 15
 days:
   - date: 2026-04-27
     events:
-      "**Lecture 36**{: .label .label-lec} [The Chi-square test for goodness of fit]() [(Video)]()":
+      "**Lecture 36**{: .label .label-lec} [The Chi-square test for independence]() [(Video)]()":
       "**Lab**{: .label .label-lab} Final Exam Review Session":
   - date: 2026-04-29
     events:
