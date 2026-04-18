@@ -34,8 +34,8 @@ nav_links:
     - 'https://edstem.org/us/courses/93012/discussion'
   Datahub:
     - 'https://publichealth.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fph142-ucb%2Fph142-sp26&urlpath=rstudio%2F&branch=main'
-  # Grade Calculator:
-  #   - 'https://ph-142-fa25.shinyapps.io/grading-app/'
+  Grade Calculator:
+    - 'https://xiangyu-yu.shinyapps.io/ph142-grading/'
     
 nav_footer_content: "Powered by <a href=\"https://github.com/kevinlin1/just-the-class\">Just the Class</a>"
 
