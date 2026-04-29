@@ -7,7 +7,7 @@ days:
       "**Lab**{: .label .label-lab} Final Exam Review Session":
   - date: 2026-04-29
     events:
-      "**Lecture 37**{: .label .label-lec} [Structured summary of Part 3]() [(Video)]()":
+      "**Lecture 37**{: .label .label-lec} [Structured summary of Part 3](https://ph142-ucb.github.io/sp26/src/lec/Final_review_sp26.pdf) [(Video)]()":
   - date: 2026-05-01
     events:
      "**Lecture 38**{: .label .label-lec} [Bonus material: Boostraps and permutations]() [(Video)](https://bcourses.berkeley.edu/courses/1552011/pages/bonus-bootstraps-and-permutations)":
